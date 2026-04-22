@@ -1,4 +1,4 @@
-# Init Empty Go Project
+# Create Empty Go Project
 
 Features:
 - Create project catalog
